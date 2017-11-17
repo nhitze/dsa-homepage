@@ -1,0 +1,53 @@
+page { size:21.0cm 29.7cm;
+       margin-top:1.7cm;
+       margin-bottom:1.4cm;
+       margin-left:2cm;
+       margin-right:2cm; }
+
+body { color: #000000;
+
+       background-color: #ffffff;
+
+       vertical-align: middle;
+
+       font-family: Verdana, Arial, Helvetica, sans-serif;
+       font-size: 9px; }
+
+div { font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 9px; }
+
+img { border: 0px }
+
+<!-- Link-Style Definition -->
+
+a { color : #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 9px; }
+
+a:link { color : #ff0000;
+         text-decoration : none; }
+
+<!-- Tabellen-Style Definition -->
+
+table { border-width: 0px;
+        background-color: #000000;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px; }
+
+td { color: #ffffff;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 9px;}
+
+.table { border-width: 1px;
+         border-color: #ffffff;
+         border-style: solid;
+         background-color: #7f7f7f;}
+
+.input { border:1px groove #000000;
+         background-color: #ffffff;
+         width: 126px }
+
+.feld { border:1px;
+        border-style: solid;
+        border-color: #000000;
+        background-color: #ffffff;}
